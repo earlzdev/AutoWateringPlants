@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AutoWateringPlants",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
